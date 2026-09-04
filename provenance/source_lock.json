@@ -1,0 +1,29 @@
+{
+  "created_at": "2026-08-21",
+  "isaaclab": {
+    "version": "2.3.1",
+    "source": "IsaacLab v2.3.1"
+  },
+  "amp_mjlab": {
+    "source": "AMP_mjlab",
+    "commit": "6c7a2947fccc973e4af8e6d90e550400f1b6fcfc",
+    "allowed_scope": "algorithm, MDP, dataset, training configuration"
+  },
+  "engineai_amp": {
+    "source": "engineai_amp",
+    "commit": "83ba64bbb58a02e14483e52adce5f893f3f31cdf",
+    "allowed_scope": "PM01 asset, default pose, gains and limits only"
+  },
+  "gmr": {
+    "source": "GMR",
+    "commit": "bb1bbe40774794fceb2a7c579a3464a28e68c844",
+    "allowed_scope": "motion retargeting only"
+  },
+  "forbidden_inputs": [
+    "AMP_mjlab_PM01",
+    "AMP_mjlab1",
+    "legged_lab",
+    "all previous PM01 checkpoints, generated motions, rewards and curricula"
+  ]
+}
+

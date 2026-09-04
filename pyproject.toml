@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "amp-mjlab-pm01-isaac"
+version = "0.1.0"
+description = "IsaacLab 2.3.1 PM01 port of AMP_mjlab"
+requires-python = ">=3.11"
+dependencies = ["numpy==1.26.0", "torch>=2.7,<2.8", "gymnasium==1.2.1", "tqdm==4.68.3", "GitPython==3.1.50", "tensorboard==2.21.0", "mujoco>=3.1,<4"]
+
+[tool.setuptools.packages.find]
+where = ["source/amp_mjlab_pm01"]
+include = ["amp_mjlab_pm01*"]
+
+[tool.ruff]
+line-length = 120
+

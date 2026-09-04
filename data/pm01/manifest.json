@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "gmr_commit": "bb1bbe40774794fceb2a7c579a3464a28e68c844",
+  "source_dataset": "AMP_mjlab@6c7a2947fccc973e4af8e6d90e550400f1b6fcfc",
+  "motions": [
+    {
+      "source": "data/source_g1/Recovery/fallAndGetUp1_subject1.npz",
+      "output": "data/pm01/Recovery/fallAndGetUp1_subject1.npz",
+      "frames": 2575,
+      "fps": 50.0,
+      "source_sha256": "31e44c9e34d8aa40109bb7b99efe2326d72b4ce8d89bb96edf438d2c847bfed6",
+      "output_sha256": "11630ab339a380c52ce636356355f006d18a22f8c6c3109bfd00b29d0dfa1061"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/arc_jog_left_loop_002__A029.npz",
+      "output": "data/pm01/WalkandRun/arc_jog_left_loop_002__A029.npz",
+      "frames": 345,
+      "fps": 50.0,
+      "source_sha256": "405fda737fcd33132543960bd2c584ac69f37ba55a88c7ba6671bd39fa4d8d10",
+      "output_sha256": "c47d206e8c47129984185bad42d648d15d4644b4ff83b32df324787268fbfdb8"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/arc_walk_left_loop_001__A029.npz",
+      "output": "data/pm01/WalkandRun/arc_walk_left_loop_001__A029.npz",
+      "frames": 621,
+      "fps": 50.0,
+      "source_sha256": "23b324482407d32505f2a901bddbe58dec1b77115d133513d568b20384b0ad84",
+      "output_sha256": "cc49588ad5df4e76eeb494d0743de12461fd3e7913ed6b5c8a43adf968c719e0"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/idle_turn_270_001__A048.npz",
+      "output": "data/pm01/WalkandRun/idle_turn_270_001__A048.npz",
+      "frames": 298,
+      "fps": 50.0,
+      "source_sha256": "9c873d0081c7788083fb13da97cc573547d3bf73fe4c5ba2b0483f1e52a33593",
+      "output_sha256": "072111c6a352ca224887432c8bd4f9024963371062bd38fde2b3eb0bd0f2b877"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/idle_turn_360_001__A047.npz",
+      "output": "data/pm01/WalkandRun/idle_turn_360_001__A047.npz",
+      "frames": 371,
+      "fps": 50.0,
+      "source_sha256": "a38e98408a64ed8d063bcfdf107de04f3cb2b75fb8ddf2627f75ddfdae81b504",
+      "output_sha256": "34a5452d24f5817781db49b50e160e5ff2bd6dce1c1ea446fa94d522c52b5445"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/jog_arc_cw_loop_004__A045.npz",
+      "output": "data/pm01/WalkandRun/jog_arc_cw_loop_004__A045.npz",
+      "frames": 443,
+      "fps": 50.0,
+      "source_sha256": "22ebd40ac1f57c1b9a9eb43b1552f4c6e5ff1f86ba8f5adc5d709a1e7d408e9d",
+      "output_sha256": "d4bbebb3400eb0455b7b2bbba7603e37192b0d48e2e7198c78da84906704af31"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/jog_backward_loop_002__A022.npz",
+      "output": "data/pm01/WalkandRun/jog_backward_loop_002__A022.npz",
+      "frames": 287,
+      "fps": 50.0,
+      "source_sha256": "90836078c8f644e6a6d5b9cf5ae82cf85b2982808b220d7548faff091abe7fad",
+      "output_sha256": "555e2fcbabe96f6ad17777bb88edff7791417d94c11cc25152c725bbae630118"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/jog_backward_loop_003__A023.npz",
+      "output": "data/pm01/WalkandRun/jog_backward_loop_003__A023.npz",
+      "frames": 285,
+      "fps": 50.0,
+      "source_sha256": "586d2d4d7399faff1f5346a28ad21c4545edd936f0845440deb32b1dc7d266e7",
+      "output_sha256": "125e0567b80d1328308b1f733697e7f1fe43bb7385388381b7cff45d88d0a3fb"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/jog_forward_loop_003__A021.npz",
+      "output": "data/pm01/WalkandRun/jog_forward_loop_003__A021.npz",
+      "frames": 401,
+      "fps": 50.0,
+      "source_sha256": "50dd0d8a98cdb7fab7b4050fbba9b8099a37f66413a6b381459d9a17b76b56c1",
+      "output_sha256": "134371cd41591964dc550acd099efe0ce8696937b6824976f3ac57bb1b27a665"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/jog_forward_loop_003__A022.npz",
+      "output": "data/pm01/WalkandRun/jog_forward_loop_003__A022.npz",
+      "frames": 286,
+      "fps": 50.0,
+      "source_sha256": "e3f235d904dbadd6e82ef4851d959842b3b6e10f162f33a86cc156e508af538f",
+      "output_sha256": "3277834c6dff42f2782533fafe62db2f9355b6b63db857ef0628625cedcac6a9"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/step_rotate_idle_000_002__A026.npz",
+      "output": "data/pm01/WalkandRun/step_rotate_idle_000_002__A026.npz",
+      "frames": 260,
+      "fps": 50.0,
+      "source_sha256": "c1951233084fc6c9cd0e2ce2655af2b3543fc2441fd2a1a374e2d2f71dc88016",
+      "output_sha256": "0059c61850df9282127b2bfd3b83e277b61af8c8fc8500ab92a2d6a161eff311"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/walk_arc_cw_loop_002__A046.npz",
+      "output": "data/pm01/WalkandRun/walk_arc_cw_loop_002__A046.npz",
+      "frames": 291,
+      "fps": 50.0,
+      "source_sha256": "f9a3730e955a2859402549b88735ccc5d436a3c67f470a10e04c7650c59c35ea",
+      "output_sha256": "686974884637e44e4b82ece7a6ea69297b3183d884e4ae5f9ef000061d2bb5b0"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/walk_backward_loop_001__A022.npz",
+      "output": "data/pm01/WalkandRun/walk_backward_loop_001__A022.npz",
+      "frames": 520,
+      "fps": 50.0,
+      "source_sha256": "8918acf02c3ad19c339204398dd99b390a6b168f53ca803329dfa7e98be4117a",
+      "output_sha256": "f562ea0c811f41f0918bcdd3d5b3e684725df052390c2658233dcf05b1cbd1d5"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/walk_backward_loop_001__A024.npz",
+      "output": "data/pm01/WalkandRun/walk_backward_loop_001__A024.npz",
+      "frames": 729,
+      "fps": 50.0,
+      "source_sha256": "fc19bc5044222ac9ca6dfc77c1c1b63788cc77e759643c77023aee31fef6dd3b",
+      "output_sha256": "780468699a751d9413012a4bffd6318d5d64b8c10e53ba78914a7a244759d04c"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/walk_forward_loop_002__A022.npz",
+      "output": "data/pm01/WalkandRun/walk_forward_loop_002__A022.npz",
+      "frames": 455,
+      "fps": 50.0,
+      "source_sha256": "dc1eba2d7f124d99d058562072a2376bcf123ec52b7c2b565abd723c3f688e1f",
+      "output_sha256": "6e148fbd6b460179b6ad5909ec05e76d803e598cd46ea564d52a378c8ff669b3"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/walk_forward_loop_002__A024.npz",
+      "output": "data/pm01/WalkandRun/walk_forward_loop_002__A024.npz",
+      "frames": 482,
+      "fps": 50.0,
+      "source_sha256": "25149b69debf5f015379ead46ed1e709cb052e96dbf974865ea2e2a66bf1be0f",
+      "output_sha256": "25433c358cb01ac34cc4b27ebf83b6fffee156732776cb98ba8e49c3177e3ea2"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/walk_sideway_left_loop_002__A021.npz",
+      "output": "data/pm01/WalkandRun/walk_sideway_left_loop_002__A021.npz",
+      "frames": 713,
+      "fps": 50.0,
+      "source_sha256": "5f27f663887ab6367d1d798931d05eec6d0b54cf95b97550aa2380015f0682f8",
+      "output_sha256": "6c786883e7de1acfb7b69e7869c41c6bc051131166c1f65a6e99e38b9743f34a"
+    },
+    {
+      "source": "data/source_g1/WalkandRun/walk_sideway_right_loop_001__A022.npz",
+      "output": "data/pm01/WalkandRun/walk_sideway_right_loop_001__A022.npz",
+      "frames": 630,
+      "fps": 50.0,
+      "source_sha256": "6b7a024e9344d8667b5bec926eecef977c0788666283924e556690a62f42252e",
+      "output_sha256": "fde76dda52a365f51e62ecf137b39758fdece0eaf3a14526437ba2128139730f"
+    }
+  ]
+}
