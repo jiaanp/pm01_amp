@@ -46,7 +46,7 @@ python -m pip install --upgrade pip
 
 pip install "isaacsim[all,extscache]==5.1.0" --extra-index-url https://pypi.nvidia.com
 pip install -U torch==2.7.0 torchvision==0.22.0 --index-url https://download.pytorch.org/whl/cu128
-
+mkdir -p <工作目录>
 cd <工作目录>
 git clone --branch v2.3.1 --depth 1 https://github.com/isaac-sim/IsaacLab.git IsaacLab_2.3.1
 cd IsaacLab_2.3.1
@@ -68,7 +68,7 @@ sudo apt install -y cmake build-essential git
 ```bash
 conda activate pm01_amp
 
-git clone <你的仓库地址> pm01_amp
+git clone https://github.com/jiaanp/pm01_amp.git
 cd pm01_amp
 python -m pip install -e .
 
