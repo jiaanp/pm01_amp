@@ -244,5 +244,5 @@ PM01 URDF / 网格、GMR 代码和源参考动作可能分别受到不同许可�
 
 ## 致谢
 
-- 感谢 AMP_mjlab 提供统一 AMP locomotion / recovery 的实现参考。
+- 感谢 [AMP_mjlab](https://github.com/ccrpRepo/AMP_mjlab) 提供统一 AMP locomotion / recovery 的实现参考。
 - 感谢 [IsaacLab](https://github.com/isaac-sim/IsaacLab)、[RSL-RL](https://github.com/leggedrobotics/rsl_rl) 与 [GMR](https://github.com/YanjieZe/GMR) 的开源工作。
